@@ -1,3 +1,9 @@
+.vscode/
+noto-fonts/
+nototools/
+subsetted/
+*.ttc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
