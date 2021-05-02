@@ -10,7 +10,7 @@ if [[ -z "$VIRTUAL_ENV" ]]; then
 fi
 
 if [[ ! -d ./noto-fonts ]]; then
-  git clone https://android.googlesource.com/platform/external/noto-fonts
+  git clone https://android.googlesource.com/platform/external/noto-fonts aosp-noto-fonts
 fi
 
 if [[ ! -d ./nototools ]]; then

@@ -1,5 +1,6 @@
 .vscode/
-noto-fonts/
+aosp-noto-fonts/
+fonts/
 nototools/
 subsetted/
 *.ttc
