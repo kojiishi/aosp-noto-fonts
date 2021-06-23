@@ -9,13 +9,18 @@ if [[ -z "$VIRTUAL_ENV" ]]; then
   exit 1
 fi
 
-if [[ ! -d ./aosp-noto-fonts ]]; then
+if [[ -d ./aosp-noto-fonts ]]; then
+  (cd ./aosp-noto-fonts; git pull --rebase)
+else
   git clone https://android.googlesource.com/platform/external/noto-fonts aosp-noto-fonts
 fi
 
-if [[ ! -d ./nototools ]]; then
+if [[ -d ./nototools ]]; then
+  (cd ./nototools; git pull --rebase)
+else
   git clone https://github.com/googlefonts/nototools.git
 fi
+
 (cd ./nototools
   pip3 install -r requirements.txt
   pip3 install -e .)
