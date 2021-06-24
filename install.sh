@@ -5,8 +5,8 @@
 # % sudo apt install python3-dev
 # ```
 if [[ -z "$VIRTUAL_ENV" ]]; then
-  if which poetry; then
-    poetry run "$0" "$@"
+  if which pipenv; then
+    pipenv run "$0" "$@"
     exit $?
   fi
   echo "Please activate a virtualenv." >&2

@@ -9,10 +9,6 @@ or if you use `pipenv`:
 ```sh
 % pipenv shell
 ```
-or if you use `poetry`:
-```sh
-% poetry shell
-```
 
 Then run the following commands:
 ```sh
