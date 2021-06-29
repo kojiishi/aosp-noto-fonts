@@ -5,7 +5,8 @@
 # % sudo apt install python3-dev
 # ```
 if [[ -z "$VIRTUAL_ENV" ]]; then
-  if which pipenv; then
+  if type pipenv >/dev/null 2>&1; then
+    echo pipenv run "$0" "$@"
     pipenv run "$0" "$@"
     exit $?
   fi
@@ -17,6 +18,7 @@ get-repo() {
   URL="$1"
   DIR="$2"
   if [[ -d "$DIR" ]]; then
+    echo "Updating $DIR"
     (cd "$DIR"; git pull --rebase)
   else
     git clone "$URL" "$DIR"
