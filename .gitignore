@@ -16,6 +16,8 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+diff/dump/
+diff/src/
 downloads/
 eggs/
 .eggs/

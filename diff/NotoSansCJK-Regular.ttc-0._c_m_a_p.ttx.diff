@@ -1,0 +1,314 @@
+@@
+       <map code="0x25e5" name="cid01275"/><!-- BLACK UPPER RIGHT TRIANGLE -->
+       <map code="0x25e6" name="cid01276"/><!-- WHITE BULLET -->
+       <map code="0x25ef" name="cid01277"/><!-- LARGE CIRCLE -->
+-      <map code="0x2600" name="cid01278"/><!-- BLACK SUN WITH RAYS -->
+-      <map code="0x2601" name="cid01279"/><!-- CLOUD -->
+       <map code="0x2602" name="cid01280"/><!-- UMBRELLA -->
+       <map code="0x2603" name="cid01281"/><!-- SNOWMAN -->
+       <map code="0x2605" name="cid01282"/><!-- BLACK STAR -->
+       <map code="0x2606" name="cid01283"/><!-- WHITE STAR -->
+       <map code="0x2609" name="cid01284"/><!-- SUN -->
+-      <map code="0x260e" name="cid01285"/><!-- BLACK TELEPHONE -->
+       <map code="0x260f" name="cid01286"/><!-- WHITE TELEPHONE -->
+       <map code="0x2616" name="cid01287"/><!-- WHITE SHOGI PIECE -->
+       <map code="0x2617" name="cid01288"/><!-- BLACK SHOGI PIECE -->
+       <map code="0x261c" name="cid01289"/><!-- WHITE LEFT POINTING INDEX -->
+-      <map code="0x261d" name="cid01290"/><!-- WHITE UP POINTING INDEX -->
+       <map code="0x261e" name="cid01291"/><!-- WHITE RIGHT POINTING INDEX -->
+       <map code="0x261f" name="cid01292"/><!-- WHITE DOWN POINTING INDEX -->
+       <map code="0x262f" name="cid01293"/><!-- YIN YANG -->
+       <map code="0x2640" name="cid01294"/><!-- FEMALE SIGN -->
+       <map code="0x2641" name="cid01295"/><!-- EARTH -->
+       <map code="0x2642" name="cid01296"/><!-- MALE SIGN -->
+-      <map code="0x2660" name="cid01297"/><!-- BLACK SPADE SUIT -->
+       <map code="0x2661" name="cid01298"/><!-- WHITE HEART SUIT -->
+       <map code="0x2662" name="cid01299"/><!-- WHITE DIAMOND SUIT -->
+-      <map code="0x2663" name="cid01300"/><!-- BLACK CLUB SUIT -->
+       <map code="0x2664" name="cid01301"/><!-- WHITE SPADE SUIT -->
+-      <map code="0x2665" name="cid01302"/><!-- BLACK HEART SUIT -->
+-      <map code="0x2666" name="cid01303"/><!-- BLACK DIAMOND SUIT -->
+       <map code="0x2667" name="cid01304"/><!-- WHITE CLUB SUIT -->
+       <map code="0x2668" name="cid01305"/><!-- HOT SPRINGS -->
+       <map code="0x2669" name="cid01306"/><!-- QUARTER NOTE -->
+@@
+       <map code="0x267c" name="cid01323"/><!-- RECYCLED PAPER SYMBOL -->
+       <map code="0x267d" name="cid01324"/><!-- PARTIALLY-RECYCLED PAPER SYMBOL -->
+       <map code="0x26a0" name="cid01325"/><!-- WARNING SIGN -->
+-      <map code="0x26bd" name="cid01326"/><!-- SOCCER BALL -->
+-      <map code="0x26be" name="cid01327"/><!-- BASEBALL -->
+       <map code="0x2702" name="cid01328"/><!-- BLACK SCISSORS -->
+       <map code="0x2713" name="cid01329"/><!-- CHECK MARK -->
+       <map code="0x271a" name="cid01330"/><!-- HEAVY GREEK CROSS -->
+@@
+       <map code="0xffed" name="cid59216"/><!-- HALFWIDTH BLACK SQUARE -->
+       <map code="0xffee" name="cid59217"/><!-- HALFWIDTH WHITE CIRCLE -->
+     </cmap_format_4>
+-    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="183448" language="0" nGroups="15286">
++    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="183424" language="0" nGroups="15284">
+       <map code="0x20" name="cid00001"/><!-- SPACE -->
+       <map code="0x21" name="cid00002"/><!-- EXCLAMATION MARK -->
+       <map code="0x22" name="cid00003"/><!-- QUOTATION MARK -->
+@@
+       <map code="0x25e5" name="cid01275"/><!-- BLACK UPPER RIGHT TRIANGLE -->
+       <map code="0x25e6" name="cid01276"/><!-- WHITE BULLET -->
+       <map code="0x25ef" name="cid01277"/><!-- LARGE CIRCLE -->
+-      <map code="0x2600" name="cid01278"/><!-- BLACK SUN WITH RAYS -->
+-      <map code="0x2601" name="cid01279"/><!-- CLOUD -->
+       <map code="0x2602" name="cid01280"/><!-- UMBRELLA -->
+       <map code="0x2603" name="cid01281"/><!-- SNOWMAN -->
+       <map code="0x2605" name="cid01282"/><!-- BLACK STAR -->
+       <map code="0x2606" name="cid01283"/><!-- WHITE STAR -->
+       <map code="0x2609" name="cid01284"/><!-- SUN -->
+-      <map code="0x260e" name="cid01285"/><!-- BLACK TELEPHONE -->
+       <map code="0x260f" name="cid01286"/><!-- WHITE TELEPHONE -->
+       <map code="0x2616" name="cid01287"/><!-- WHITE SHOGI PIECE -->
+       <map code="0x2617" name="cid01288"/><!-- BLACK SHOGI PIECE -->
+       <map code="0x261c" name="cid01289"/><!-- WHITE LEFT POINTING INDEX -->
+-      <map code="0x261d" name="cid01290"/><!-- WHITE UP POINTING INDEX -->
+       <map code="0x261e" name="cid01291"/><!-- WHITE RIGHT POINTING INDEX -->
+       <map code="0x261f" name="cid01292"/><!-- WHITE DOWN POINTING INDEX -->
+       <map code="0x262f" name="cid01293"/><!-- YIN YANG -->
+       <map code="0x2640" name="cid01294"/><!-- FEMALE SIGN -->
+       <map code="0x2641" name="cid01295"/><!-- EARTH -->
+       <map code="0x2642" name="cid01296"/><!-- MALE SIGN -->
+-      <map code="0x2660" name="cid01297"/><!-- BLACK SPADE SUIT -->
+       <map code="0x2661" name="cid01298"/><!-- WHITE HEART SUIT -->
+       <map code="0x2662" name="cid01299"/><!-- WHITE DIAMOND SUIT -->
+-      <map code="0x2663" name="cid01300"/><!-- BLACK CLUB SUIT -->
+       <map code="0x2664" name="cid01301"/><!-- WHITE SPADE SUIT -->
+-      <map code="0x2665" name="cid01302"/><!-- BLACK HEART SUIT -->
+-      <map code="0x2666" name="cid01303"/><!-- BLACK DIAMOND SUIT -->
+       <map code="0x2667" name="cid01304"/><!-- WHITE CLUB SUIT -->
+       <map code="0x2668" name="cid01305"/><!-- HOT SPRINGS -->
+       <map code="0x2669" name="cid01306"/><!-- QUARTER NOTE -->
+@@
+       <map code="0x267c" name="cid01323"/><!-- RECYCLED PAPER SYMBOL -->
+       <map code="0x267d" name="cid01324"/><!-- PARTIALLY-RECYCLED PAPER SYMBOL -->
+       <map code="0x26a0" name="cid01325"/><!-- WARNING SIGN -->
+-      <map code="0x26bd" name="cid01326"/><!-- SOCCER BALL -->
+-      <map code="0x26be" name="cid01327"/><!-- BASEBALL -->
+       <map code="0x2702" name="cid01328"/><!-- BLACK SCISSORS -->
+       <map code="0x2713" name="cid01329"/><!-- CHECK MARK -->
+       <map code="0x271a" name="cid01330"/><!-- HEAVY GREEK CROSS -->
+@@
+       <map code="0x1f18b" name="cid59348"/><!-- NEGATIVE SQUARED IC -->
+       <map code="0x1f18c" name="cid59349"/><!-- NEGATIVE SQUARED PA -->
+       <map code="0x1f18d" name="cid59350"/><!-- NEGATIVE SQUARED SA -->
+-      <map code="0x1f18e" name="cid59351"/><!-- NEGATIVE SQUARED AB -->
+       <map code="0x1f18f" name="cid59352"/><!-- NEGATIVE SQUARED WC -->
+       <map code="0x1f190" name="cid59353"/><!-- SQUARE DJ -->
+-      <map code="0x1f191" name="cid59354"/><!-- SQUARED CL -->
+-      <map code="0x1f192" name="cid59355"/><!-- SQUARED COOL -->
+-      <map code="0x1f193" name="cid59356"/><!-- SQUARED FREE -->
+-      <map code="0x1f194" name="cid59357"/><!-- SQUARED ID -->
+-      <map code="0x1f195" name="cid59358"/><!-- SQUARED NEW -->
+-      <map code="0x1f196" name="cid59359"/><!-- SQUARED NG -->
+-      <map code="0x1f197" name="cid59360"/><!-- SQUARED OK -->
+-      <map code="0x1f198" name="cid59361"/><!-- SQUARED SOS -->
+-      <map code="0x1f199" name="cid59362"/><!-- SQUARED UP WITH EXCLAMATION MARK -->
+-      <map code="0x1f19a" name="cid59363"/><!-- SQUARED VS -->
+       <map code="0x1f19b" name="cid59364"/><!-- SQUARED THREE D -->
+       <map code="0x1f19c" name="cid59365"/><!-- SQUARED SECOND SCREEN -->
+       <map code="0x1f19d" name="cid59366"/><!-- SQUARED TWO K -->
+@@
+       <map code="0x1f1ab" name="cid59380"/><!-- SQUARED UHD -->
+       <map code="0x1f1ac" name="cid59381"/><!-- SQUARED VOD -->
+       <map code="0x1f200" name="cid59382"/><!-- SQUARE HIRAGANA HOKA -->
+-      <map code="0x1f201" name="cid59383"/><!-- SQUARED KATAKANA KOKO -->
+       <map code="0x1f202" name="cid59384"/><!-- SQUARED KATAKANA SA -->
+       <map code="0x1f210" name="cid59385"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-624B -->
+       <map code="0x1f211" name="cid59386"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5B57 -->
+@@
+       <map code="0x1f217" name="cid59394"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5929 -->
+       <map code="0x1f218" name="cid59396"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4EA4 -->
+       <map code="0x1f219" name="cid59398"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6620 -->
+-      <map code="0x1f21a" name="cid59400"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7121 -->
+       <map code="0x1f21b" name="cid59403"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6599 -->
+       <map code="0x1f21c" name="cid59405"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-524D -->
+       <map code="0x1f21d" name="cid59407"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5F8C -->
+@@
+       <map code="0x1f22c" name="cid59433"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5DE6 -->
+       <map code="0x1f22d" name="cid59434"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4E2D -->
+       <map code="0x1f22e" name="cid59435"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-53F3 -->
+-      <map code="0x1f22f" name="cid59436"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6307 -->
+       <map code="0x1f230" name="cid59438"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-8D70 -->
+       <map code="0x1f231" name="cid59439"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6253 -->
+-      <map code="0x1f232" name="cid59440"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7981 -->
+-      <map code="0x1f233" name="cid59442"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7A7A -->
+-      <map code="0x1f234" name="cid59445"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5408 -->
+-      <map code="0x1f235" name="cid59447"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6E80 -->
+-      <map code="0x1f236" name="cid59450"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6709 -->
+       <map code="0x1f237" name="cid59452"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6708 -->
+-      <map code="0x1f238" name="cid59453"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7533 -->
+-      <map code="0x1f239" name="cid59454"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5272 -->
+-      <map code="0x1f23a" name="cid59457"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-55B6 -->
+       <map code="0x1f23b" name="cid59460"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-914D -->
+       <map code="0x1f240" name="cid59462"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-672C -->
+       <map code="0x1f241" name="cid59463"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-4E09 -->
+@@
+       <map code="0x1f246" name="cid59470"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-76D7 -->
+       <map code="0x1f247" name="cid59472"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-52DD -->
+       <map code="0x1f248" name="cid59474"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6557 -->
+-      <map code="0x1f250" name="cid59475"/><!-- CIRCLED IDEOGRAPH ADVANTAGE -->
+-      <map code="0x1f251" name="cid59476"/><!-- CIRCLED IDEOGRAPH ACCEPT -->
+       <map code="0x2000b" name="cid59477"/><!-- CJK UNIFIED IDEOGRAPH-2000B -->
+       <map code="0x20021" name="cid59478"/><!-- CJK UNIFIED IDEOGRAPH-20021 -->
+       <map code="0x20024" name="cid59479"/><!-- CJK UNIFIED IDEOGRAPH-20024 -->
+@@
+       <map code="0x25e5" name="cid01275"/><!-- BLACK UPPER RIGHT TRIANGLE -->
+       <map code="0x25e6" name="cid01276"/><!-- WHITE BULLET -->
+       <map code="0x25ef" name="cid01277"/><!-- LARGE CIRCLE -->
+-      <map code="0x2600" name="cid01278"/><!-- BLACK SUN WITH RAYS -->
+-      <map code="0x2601" name="cid01279"/><!-- CLOUD -->
+       <map code="0x2602" name="cid01280"/><!-- UMBRELLA -->
+       <map code="0x2603" name="cid01281"/><!-- SNOWMAN -->
+       <map code="0x2605" name="cid01282"/><!-- BLACK STAR -->
+       <map code="0x2606" name="cid01283"/><!-- WHITE STAR -->
+       <map code="0x2609" name="cid01284"/><!-- SUN -->
+-      <map code="0x260e" name="cid01285"/><!-- BLACK TELEPHONE -->
+       <map code="0x260f" name="cid01286"/><!-- WHITE TELEPHONE -->
+       <map code="0x2616" name="cid01287"/><!-- WHITE SHOGI PIECE -->
+       <map code="0x2617" name="cid01288"/><!-- BLACK SHOGI PIECE -->
+       <map code="0x261c" name="cid01289"/><!-- WHITE LEFT POINTING INDEX -->
+-      <map code="0x261d" name="cid01290"/><!-- WHITE UP POINTING INDEX -->
+       <map code="0x261e" name="cid01291"/><!-- WHITE RIGHT POINTING INDEX -->
+       <map code="0x261f" name="cid01292"/><!-- WHITE DOWN POINTING INDEX -->
+       <map code="0x262f" name="cid01293"/><!-- YIN YANG -->
+       <map code="0x2640" name="cid01294"/><!-- FEMALE SIGN -->
+       <map code="0x2641" name="cid01295"/><!-- EARTH -->
+       <map code="0x2642" name="cid01296"/><!-- MALE SIGN -->
+-      <map code="0x2660" name="cid01297"/><!-- BLACK SPADE SUIT -->
+       <map code="0x2661" name="cid01298"/><!-- WHITE HEART SUIT -->
+       <map code="0x2662" name="cid01299"/><!-- WHITE DIAMOND SUIT -->
+-      <map code="0x2663" name="cid01300"/><!-- BLACK CLUB SUIT -->
+       <map code="0x2664" name="cid01301"/><!-- WHITE SPADE SUIT -->
+-      <map code="0x2665" name="cid01302"/><!-- BLACK HEART SUIT -->
+-      <map code="0x2666" name="cid01303"/><!-- BLACK DIAMOND SUIT -->
+       <map code="0x2667" name="cid01304"/><!-- WHITE CLUB SUIT -->
+       <map code="0x2668" name="cid01305"/><!-- HOT SPRINGS -->
+       <map code="0x2669" name="cid01306"/><!-- QUARTER NOTE -->
+@@
+       <map code="0x267c" name="cid01323"/><!-- RECYCLED PAPER SYMBOL -->
+       <map code="0x267d" name="cid01324"/><!-- PARTIALLY-RECYCLED PAPER SYMBOL -->
+       <map code="0x26a0" name="cid01325"/><!-- WARNING SIGN -->
+-      <map code="0x26bd" name="cid01326"/><!-- SOCCER BALL -->
+-      <map code="0x26be" name="cid01327"/><!-- BASEBALL -->
+       <map code="0x2702" name="cid01328"/><!-- BLACK SCISSORS -->
+       <map code="0x2713" name="cid01329"/><!-- CHECK MARK -->
+       <map code="0x271a" name="cid01330"/><!-- HEAVY GREEK CROSS -->
+@@
+       <map code="0xffed" name="cid59216"/><!-- HALFWIDTH BLACK SQUARE -->
+       <map code="0xffee" name="cid59217"/><!-- HALFWIDTH WHITE CIRCLE -->
+     </cmap_format_4>
+-    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="183448" language="0" nGroups="15286">
++    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="183424" language="0" nGroups="15284">
+       <map code="0x20" name="cid00001"/><!-- SPACE -->
+       <map code="0x21" name="cid00002"/><!-- EXCLAMATION MARK -->
+       <map code="0x22" name="cid00003"/><!-- QUOTATION MARK -->
+@@
+       <map code="0x25e5" name="cid01275"/><!-- BLACK UPPER RIGHT TRIANGLE -->
+       <map code="0x25e6" name="cid01276"/><!-- WHITE BULLET -->
+       <map code="0x25ef" name="cid01277"/><!-- LARGE CIRCLE -->
+-      <map code="0x2600" name="cid01278"/><!-- BLACK SUN WITH RAYS -->
+-      <map code="0x2601" name="cid01279"/><!-- CLOUD -->
+       <map code="0x2602" name="cid01280"/><!-- UMBRELLA -->
+       <map code="0x2603" name="cid01281"/><!-- SNOWMAN -->
+       <map code="0x2605" name="cid01282"/><!-- BLACK STAR -->
+       <map code="0x2606" name="cid01283"/><!-- WHITE STAR -->
+       <map code="0x2609" name="cid01284"/><!-- SUN -->
+-      <map code="0x260e" name="cid01285"/><!-- BLACK TELEPHONE -->
+       <map code="0x260f" name="cid01286"/><!-- WHITE TELEPHONE -->
+       <map code="0x2616" name="cid01287"/><!-- WHITE SHOGI PIECE -->
+       <map code="0x2617" name="cid01288"/><!-- BLACK SHOGI PIECE -->
+       <map code="0x261c" name="cid01289"/><!-- WHITE LEFT POINTING INDEX -->
+-      <map code="0x261d" name="cid01290"/><!-- WHITE UP POINTING INDEX -->
+       <map code="0x261e" name="cid01291"/><!-- WHITE RIGHT POINTING INDEX -->
+       <map code="0x261f" name="cid01292"/><!-- WHITE DOWN POINTING INDEX -->
+       <map code="0x262f" name="cid01293"/><!-- YIN YANG -->
+       <map code="0x2640" name="cid01294"/><!-- FEMALE SIGN -->
+       <map code="0x2641" name="cid01295"/><!-- EARTH -->
+       <map code="0x2642" name="cid01296"/><!-- MALE SIGN -->
+-      <map code="0x2660" name="cid01297"/><!-- BLACK SPADE SUIT -->
+       <map code="0x2661" name="cid01298"/><!-- WHITE HEART SUIT -->
+       <map code="0x2662" name="cid01299"/><!-- WHITE DIAMOND SUIT -->
+-      <map code="0x2663" name="cid01300"/><!-- BLACK CLUB SUIT -->
+       <map code="0x2664" name="cid01301"/><!-- WHITE SPADE SUIT -->
+-      <map code="0x2665" name="cid01302"/><!-- BLACK HEART SUIT -->
+-      <map code="0x2666" name="cid01303"/><!-- BLACK DIAMOND SUIT -->
+       <map code="0x2667" name="cid01304"/><!-- WHITE CLUB SUIT -->
+       <map code="0x2668" name="cid01305"/><!-- HOT SPRINGS -->
+       <map code="0x2669" name="cid01306"/><!-- QUARTER NOTE -->
+@@
+       <map code="0x267c" name="cid01323"/><!-- RECYCLED PAPER SYMBOL -->
+       <map code="0x267d" name="cid01324"/><!-- PARTIALLY-RECYCLED PAPER SYMBOL -->
+       <map code="0x26a0" name="cid01325"/><!-- WARNING SIGN -->
+-      <map code="0x26bd" name="cid01326"/><!-- SOCCER BALL -->
+-      <map code="0x26be" name="cid01327"/><!-- BASEBALL -->
+       <map code="0x2702" name="cid01328"/><!-- BLACK SCISSORS -->
+       <map code="0x2713" name="cid01329"/><!-- CHECK MARK -->
+       <map code="0x271a" name="cid01330"/><!-- HEAVY GREEK CROSS -->
+@@
+       <map code="0x1f18b" name="cid59348"/><!-- NEGATIVE SQUARED IC -->
+       <map code="0x1f18c" name="cid59349"/><!-- NEGATIVE SQUARED PA -->
+       <map code="0x1f18d" name="cid59350"/><!-- NEGATIVE SQUARED SA -->
+-      <map code="0x1f18e" name="cid59351"/><!-- NEGATIVE SQUARED AB -->
+       <map code="0x1f18f" name="cid59352"/><!-- NEGATIVE SQUARED WC -->
+       <map code="0x1f190" name="cid59353"/><!-- SQUARE DJ -->
+-      <map code="0x1f191" name="cid59354"/><!-- SQUARED CL -->
+-      <map code="0x1f192" name="cid59355"/><!-- SQUARED COOL -->
+-      <map code="0x1f193" name="cid59356"/><!-- SQUARED FREE -->
+-      <map code="0x1f194" name="cid59357"/><!-- SQUARED ID -->
+-      <map code="0x1f195" name="cid59358"/><!-- SQUARED NEW -->
+-      <map code="0x1f196" name="cid59359"/><!-- SQUARED NG -->
+-      <map code="0x1f197" name="cid59360"/><!-- SQUARED OK -->
+-      <map code="0x1f198" name="cid59361"/><!-- SQUARED SOS -->
+-      <map code="0x1f199" name="cid59362"/><!-- SQUARED UP WITH EXCLAMATION MARK -->
+-      <map code="0x1f19a" name="cid59363"/><!-- SQUARED VS -->
+       <map code="0x1f19b" name="cid59364"/><!-- SQUARED THREE D -->
+       <map code="0x1f19c" name="cid59365"/><!-- SQUARED SECOND SCREEN -->
+       <map code="0x1f19d" name="cid59366"/><!-- SQUARED TWO K -->
+@@
+       <map code="0x1f1ab" name="cid59380"/><!-- SQUARED UHD -->
+       <map code="0x1f1ac" name="cid59381"/><!-- SQUARED VOD -->
+       <map code="0x1f200" name="cid59382"/><!-- SQUARE HIRAGANA HOKA -->
+-      <map code="0x1f201" name="cid59383"/><!-- SQUARED KATAKANA KOKO -->
+       <map code="0x1f202" name="cid59384"/><!-- SQUARED KATAKANA SA -->
+       <map code="0x1f210" name="cid59385"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-624B -->
+       <map code="0x1f211" name="cid59386"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5B57 -->
+@@
+       <map code="0x1f217" name="cid59394"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5929 -->
+       <map code="0x1f218" name="cid59396"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4EA4 -->
+       <map code="0x1f219" name="cid59398"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6620 -->
+-      <map code="0x1f21a" name="cid59400"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7121 -->
+       <map code="0x1f21b" name="cid59403"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6599 -->
+       <map code="0x1f21c" name="cid59405"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-524D -->
+       <map code="0x1f21d" name="cid59407"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5F8C -->
+@@
+       <map code="0x1f22c" name="cid59433"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5DE6 -->
+       <map code="0x1f22d" name="cid59434"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4E2D -->
+       <map code="0x1f22e" name="cid59435"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-53F3 -->
+-      <map code="0x1f22f" name="cid59436"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6307 -->
+       <map code="0x1f230" name="cid59438"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-8D70 -->
+       <map code="0x1f231" name="cid59439"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6253 -->
+-      <map code="0x1f232" name="cid59440"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7981 -->
+-      <map code="0x1f233" name="cid59442"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7A7A -->
+-      <map code="0x1f234" name="cid59445"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5408 -->
+-      <map code="0x1f235" name="cid59447"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6E80 -->
+-      <map code="0x1f236" name="cid59450"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6709 -->
+       <map code="0x1f237" name="cid59452"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6708 -->
+-      <map code="0x1f238" name="cid59453"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7533 -->
+-      <map code="0x1f239" name="cid59454"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5272 -->
+-      <map code="0x1f23a" name="cid59457"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-55B6 -->
+       <map code="0x1f23b" name="cid59460"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-914D -->
+       <map code="0x1f240" name="cid59462"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-672C -->
+       <map code="0x1f241" name="cid59463"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-4E09 -->
+@@
+       <map code="0x1f246" name="cid59470"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-76D7 -->
+       <map code="0x1f247" name="cid59472"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-52DD -->
+       <map code="0x1f248" name="cid59474"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6557 -->
+-      <map code="0x1f250" name="cid59475"/><!-- CIRCLED IDEOGRAPH ADVANTAGE -->
+-      <map code="0x1f251" name="cid59476"/><!-- CIRCLED IDEOGRAPH ACCEPT -->
+       <map code="0x2000b" name="cid59477"/><!-- CJK UNIFIED IDEOGRAPH-2000B -->
+       <map code="0x20021" name="cid59478"/><!-- CJK UNIFIED IDEOGRAPH-20021 -->
+       <map code="0x20024" name="cid59479"/><!-- CJK UNIFIED IDEOGRAPH-20024 -->
