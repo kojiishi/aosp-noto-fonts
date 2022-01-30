@@ -1,4 +1,4 @@
-# Build environment for ChromeOS/Android Noto CJK
+# Build environment for Android/ChromeOS Noto CJK
 
 ## Preparations
 
@@ -12,6 +12,11 @@ or if you use `pipenv`:
 pipenv shell
 ```
 
+Then update dependencies by running the following command:
+```sh
+./install.sh
+```
+
 ## Build
 
 Create Noto CJK with the `chws` feature in the `dist` directory:
@@ -19,10 +24,10 @@ Create Noto CJK with the `chws` feature in the `dist` directory:
 east-asian-spacing -o dist "$SRCDIR"/Noto{Sans,Serif}CJK-{Regular,Bold,Light}.ttc
 ```
 
-Then run the following commands:
+### Android
+
+Run the following commands:
 ```sh
-./install.sh
-./build-tar.sh
 ./build-android.sh
 ```
 
@@ -30,4 +35,11 @@ To check the diff for Android:
 ```sh
 ./check-diff.sh
 git diff
+```
+
+### ChromeOS
+
+To build a `.tar.bz2` file for ChromeOS:
+```sh
+./build-tar.sh
 ```
