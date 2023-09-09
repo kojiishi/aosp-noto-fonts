@@ -2,14 +2,14 @@
 
 ## Preparations
 
-Create a `virtualenv` environment:
+If you use `pipenv` (preferred):
+```sh
+pipenv shell
+```
+Otherwise, you can create a `virtualenv` environment manually:
 ```sh
 python3 -m venv venv
 source venv/bin/activate
-```
-or if you use `pipenv`:
-```sh
-pipenv shell
 ```
 
 Then update dependencies by running the following command:
