@@ -41,11 +41,11 @@
        <map code="0x2713" name="cid01330"/><!-- CHECK MARK -->
        <map code="0x271a" name="cid01331"/><!-- HEAVY GREEK CROSS -->
 @@
-       <map code="0xffed" name="cid59118"/><!-- HALFWIDTH BLACK SQUARE -->
-       <map code="0xffee" name="cid59119"/><!-- HALFWIDTH WHITE CIRCLE -->
+       <map code="0xffed" name="cid59143"/><!-- HALFWIDTH BLACK SQUARE -->
+       <map code="0xffee" name="cid59144"/><!-- HALFWIDTH WHITE CIRCLE -->
      </cmap_format_4>
--    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="184528" language="0" nGroups="15376">
-+    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="184516" language="0" nGroups="15375">
+-    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="184564" language="0" nGroups="15379">
++    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="184552" language="0" nGroups="15378">
        <map code="0x20" name="cid00001"/><!-- SPACE -->
        <map code="0x21" name="cid00002"/><!-- EXCLAMATION MARK -->
        <map code="0x22" name="cid00003"/><!-- QUOTATION MARK -->
@@ -92,69 +92,69 @@
        <map code="0x2713" name="cid01330"/><!-- CHECK MARK -->
        <map code="0x271a" name="cid01331"/><!-- HEAVY GREEK CROSS -->
 @@
-       <map code="0x1f18b" name="cid59251"/><!-- NEGATIVE SQUARED IC -->
-       <map code="0x1f18c" name="cid59252"/><!-- NEGATIVE SQUARED PA -->
-       <map code="0x1f18d" name="cid59253"/><!-- NEGATIVE SQUARED SA -->
--      <map code="0x1f18e" name="cid59254"/><!-- NEGATIVE SQUARED AB -->
-       <map code="0x1f18f" name="cid59255"/><!-- NEGATIVE SQUARED WC -->
-       <map code="0x1f190" name="cid59256"/><!-- SQUARE DJ -->
--      <map code="0x1f191" name="cid59257"/><!-- SQUARED CL -->
--      <map code="0x1f192" name="cid59258"/><!-- SQUARED COOL -->
--      <map code="0x1f193" name="cid59259"/><!-- SQUARED FREE -->
--      <map code="0x1f194" name="cid59260"/><!-- SQUARED ID -->
--      <map code="0x1f195" name="cid59261"/><!-- SQUARED NEW -->
--      <map code="0x1f196" name="cid59262"/><!-- SQUARED NG -->
--      <map code="0x1f197" name="cid59263"/><!-- SQUARED OK -->
--      <map code="0x1f198" name="cid59264"/><!-- SQUARED SOS -->
--      <map code="0x1f199" name="cid59265"/><!-- SQUARED UP WITH EXCLAMATION MARK -->
--      <map code="0x1f19a" name="cid59266"/><!-- SQUARED VS -->
-       <map code="0x1f19b" name="cid59267"/><!-- SQUARED THREE D -->
-       <map code="0x1f19c" name="cid59268"/><!-- SQUARED SECOND SCREEN -->
-       <map code="0x1f19d" name="cid59269"/><!-- SQUARED TWO K -->
+       <map code="0x1f18b" name="cid59276"/><!-- NEGATIVE SQUARED IC -->
+       <map code="0x1f18c" name="cid59277"/><!-- NEGATIVE SQUARED PA -->
+       <map code="0x1f18d" name="cid59278"/><!-- NEGATIVE SQUARED SA -->
+-      <map code="0x1f18e" name="cid59279"/><!-- NEGATIVE SQUARED AB -->
+       <map code="0x1f18f" name="cid59280"/><!-- NEGATIVE SQUARED WC -->
+       <map code="0x1f190" name="cid59281"/><!-- SQUARE DJ -->
+-      <map code="0x1f191" name="cid59282"/><!-- SQUARED CL -->
+-      <map code="0x1f192" name="cid59283"/><!-- SQUARED COOL -->
+-      <map code="0x1f193" name="cid59284"/><!-- SQUARED FREE -->
+-      <map code="0x1f194" name="cid59285"/><!-- SQUARED ID -->
+-      <map code="0x1f195" name="cid59286"/><!-- SQUARED NEW -->
+-      <map code="0x1f196" name="cid59287"/><!-- SQUARED NG -->
+-      <map code="0x1f197" name="cid59288"/><!-- SQUARED OK -->
+-      <map code="0x1f198" name="cid59289"/><!-- SQUARED SOS -->
+-      <map code="0x1f199" name="cid59290"/><!-- SQUARED UP WITH EXCLAMATION MARK -->
+-      <map code="0x1f19a" name="cid59291"/><!-- SQUARED VS -->
+       <map code="0x1f19b" name="cid59292"/><!-- SQUARED THREE D -->
+       <map code="0x1f19c" name="cid59293"/><!-- SQUARED SECOND SCREEN -->
+       <map code="0x1f19d" name="cid59294"/><!-- SQUARED TWO K -->
 @@
-       <map code="0x1f1ab" name="cid59283"/><!-- SQUARED UHD -->
-       <map code="0x1f1ac" name="cid59284"/><!-- SQUARED VOD -->
-       <map code="0x1f200" name="cid59285"/><!-- SQUARE HIRAGANA HOKA -->
--      <map code="0x1f201" name="cid59286"/><!-- SQUARED KATAKANA KOKO -->
-       <map code="0x1f202" name="cid59287"/><!-- SQUARED KATAKANA SA -->
-       <map code="0x1f210" name="cid59288"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-624B -->
-       <map code="0x1f211" name="cid59289"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5B57 -->
+       <map code="0x1f1ab" name="cid59308"/><!-- SQUARED UHD -->
+       <map code="0x1f1ac" name="cid59309"/><!-- SQUARED VOD -->
+       <map code="0x1f200" name="cid59310"/><!-- SQUARE HIRAGANA HOKA -->
+-      <map code="0x1f201" name="cid59311"/><!-- SQUARED KATAKANA KOKO -->
+       <map code="0x1f202" name="cid59312"/><!-- SQUARED KATAKANA SA -->
+       <map code="0x1f210" name="cid59313"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-624B -->
+       <map code="0x1f211" name="cid59314"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5B57 -->
 @@
-       <map code="0x1f217" name="cid59297"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5929 -->
-       <map code="0x1f218" name="cid59299"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4EA4 -->
-       <map code="0x1f219" name="cid59301"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6620 -->
--      <map code="0x1f21a" name="cid59303"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7121 -->
-       <map code="0x1f21b" name="cid59305"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6599 -->
-       <map code="0x1f21c" name="cid59307"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-524D -->
-       <map code="0x1f21d" name="cid59309"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5F8C -->
+       <map code="0x1f217" name="cid59322"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5929 -->
+       <map code="0x1f218" name="cid59324"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4EA4 -->
+       <map code="0x1f219" name="cid59326"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6620 -->
+-      <map code="0x1f21a" name="cid59328"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7121 -->
+       <map code="0x1f21b" name="cid59330"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6599 -->
+       <map code="0x1f21c" name="cid59332"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-524D -->
+       <map code="0x1f21d" name="cid59334"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5F8C -->
 @@
-       <map code="0x1f22c" name="cid59336"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5DE6 -->
-       <map code="0x1f22d" name="cid59337"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4E2D -->
-       <map code="0x1f22e" name="cid59338"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-53F3 -->
--      <map code="0x1f22f" name="cid59339"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6307 -->
-       <map code="0x1f230" name="cid59341"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-8D70 -->
-       <map code="0x1f231" name="cid59342"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6253 -->
--      <map code="0x1f232" name="cid59343"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7981 -->
--      <map code="0x1f233" name="cid59345"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7A7A -->
--      <map code="0x1f234" name="cid59348"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5408 -->
--      <map code="0x1f235" name="cid59349"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6E80 -->
--      <map code="0x1f236" name="cid59351"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6709 -->
-       <map code="0x1f237" name="cid59353"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6708 -->
--      <map code="0x1f238" name="cid59354"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7533 -->
--      <map code="0x1f239" name="cid59355"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5272 -->
--      <map code="0x1f23a" name="cid59358"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-55B6 -->
-       <map code="0x1f23b" name="cid59360"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-914D -->
-       <map code="0x1f240" name="cid59362"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-672C -->
-       <map code="0x1f241" name="cid59363"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-4E09 -->
+       <map code="0x1f22c" name="cid59361"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5DE6 -->
+       <map code="0x1f22d" name="cid59362"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4E2D -->
+       <map code="0x1f22e" name="cid59363"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-53F3 -->
+-      <map code="0x1f22f" name="cid59364"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6307 -->
+       <map code="0x1f230" name="cid59366"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-8D70 -->
+       <map code="0x1f231" name="cid59367"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6253 -->
+-      <map code="0x1f232" name="cid59368"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7981 -->
+-      <map code="0x1f233" name="cid59370"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7A7A -->
+-      <map code="0x1f234" name="cid59373"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5408 -->
+-      <map code="0x1f235" name="cid59374"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6E80 -->
+-      <map code="0x1f236" name="cid59376"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6709 -->
+       <map code="0x1f237" name="cid59378"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6708 -->
+-      <map code="0x1f238" name="cid59379"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7533 -->
+-      <map code="0x1f239" name="cid59380"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5272 -->
+-      <map code="0x1f23a" name="cid59383"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-55B6 -->
+       <map code="0x1f23b" name="cid59385"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-914D -->
+       <map code="0x1f240" name="cid59387"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-672C -->
+       <map code="0x1f241" name="cid59388"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-4E09 -->
 @@
-       <map code="0x1f246" name="cid59370"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-76D7 -->
-       <map code="0x1f247" name="cid59373"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-52DD -->
-       <map code="0x1f248" name="cid59375"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6557 -->
--      <map code="0x1f250" name="cid59376"/><!-- CIRCLED IDEOGRAPH ADVANTAGE -->
--      <map code="0x1f251" name="cid59377"/><!-- CIRCLED IDEOGRAPH ACCEPT -->
-       <map code="0x2000b" name="cid59378"/><!-- CJK UNIFIED IDEOGRAPH-2000B -->
-       <map code="0x20021" name="cid59379"/><!-- CJK UNIFIED IDEOGRAPH-20021 -->
-       <map code="0x2003e" name="cid59381"/><!-- CJK UNIFIED IDEOGRAPH-2003E -->
+       <map code="0x1f246" name="cid59395"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-76D7 -->
+       <map code="0x1f247" name="cid59398"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-52DD -->
+       <map code="0x1f248" name="cid59400"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6557 -->
+-      <map code="0x1f250" name="cid59401"/><!-- CIRCLED IDEOGRAPH ADVANTAGE -->
+-      <map code="0x1f251" name="cid59402"/><!-- CIRCLED IDEOGRAPH ACCEPT -->
+       <map code="0x2000b" name="cid59403"/><!-- CJK UNIFIED IDEOGRAPH-2000B -->
+       <map code="0x20021" name="cid59404"/><!-- CJK UNIFIED IDEOGRAPH-20021 -->
+       <map code="0x2003e" name="cid59406"/><!-- CJK UNIFIED IDEOGRAPH-2003E -->
 @@
        <map code="0x25e5" name="cid01276"/><!-- BLACK UPPER RIGHT TRIANGLE -->
        <map code="0x25e6" name="cid01277"/><!-- WHITE BULLET -->
@@ -198,11 +198,11 @@
        <map code="0x2713" name="cid01330"/><!-- CHECK MARK -->
        <map code="0x271a" name="cid01331"/><!-- HEAVY GREEK CROSS -->
 @@
-       <map code="0xffed" name="cid59118"/><!-- HALFWIDTH BLACK SQUARE -->
-       <map code="0xffee" name="cid59119"/><!-- HALFWIDTH WHITE CIRCLE -->
+       <map code="0xffed" name="cid59143"/><!-- HALFWIDTH BLACK SQUARE -->
+       <map code="0xffee" name="cid59144"/><!-- HALFWIDTH WHITE CIRCLE -->
      </cmap_format_4>
--    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="184528" language="0" nGroups="15376">
-+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="184516" language="0" nGroups="15375">
+-    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="184564" language="0" nGroups="15379">
++    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="184552" language="0" nGroups="15378">
        <map code="0x20" name="cid00001"/><!-- SPACE -->
        <map code="0x21" name="cid00002"/><!-- EXCLAMATION MARK -->
        <map code="0x22" name="cid00003"/><!-- QUOTATION MARK -->
@@ -249,66 +249,66 @@
        <map code="0x2713" name="cid01330"/><!-- CHECK MARK -->
        <map code="0x271a" name="cid01331"/><!-- HEAVY GREEK CROSS -->
 @@
-       <map code="0x1f18b" name="cid59251"/><!-- NEGATIVE SQUARED IC -->
-       <map code="0x1f18c" name="cid59252"/><!-- NEGATIVE SQUARED PA -->
-       <map code="0x1f18d" name="cid59253"/><!-- NEGATIVE SQUARED SA -->
--      <map code="0x1f18e" name="cid59254"/><!-- NEGATIVE SQUARED AB -->
-       <map code="0x1f18f" name="cid59255"/><!-- NEGATIVE SQUARED WC -->
-       <map code="0x1f190" name="cid59256"/><!-- SQUARE DJ -->
--      <map code="0x1f191" name="cid59257"/><!-- SQUARED CL -->
--      <map code="0x1f192" name="cid59258"/><!-- SQUARED COOL -->
--      <map code="0x1f193" name="cid59259"/><!-- SQUARED FREE -->
--      <map code="0x1f194" name="cid59260"/><!-- SQUARED ID -->
--      <map code="0x1f195" name="cid59261"/><!-- SQUARED NEW -->
--      <map code="0x1f196" name="cid59262"/><!-- SQUARED NG -->
--      <map code="0x1f197" name="cid59263"/><!-- SQUARED OK -->
--      <map code="0x1f198" name="cid59264"/><!-- SQUARED SOS -->
--      <map code="0x1f199" name="cid59265"/><!-- SQUARED UP WITH EXCLAMATION MARK -->
--      <map code="0x1f19a" name="cid59266"/><!-- SQUARED VS -->
-       <map code="0x1f19b" name="cid59267"/><!-- SQUARED THREE D -->
-       <map code="0x1f19c" name="cid59268"/><!-- SQUARED SECOND SCREEN -->
-       <map code="0x1f19d" name="cid59269"/><!-- SQUARED TWO K -->
+       <map code="0x1f18b" name="cid59276"/><!-- NEGATIVE SQUARED IC -->
+       <map code="0x1f18c" name="cid59277"/><!-- NEGATIVE SQUARED PA -->
+       <map code="0x1f18d" name="cid59278"/><!-- NEGATIVE SQUARED SA -->
+-      <map code="0x1f18e" name="cid59279"/><!-- NEGATIVE SQUARED AB -->
+       <map code="0x1f18f" name="cid59280"/><!-- NEGATIVE SQUARED WC -->
+       <map code="0x1f190" name="cid59281"/><!-- SQUARE DJ -->
+-      <map code="0x1f191" name="cid59282"/><!-- SQUARED CL -->
+-      <map code="0x1f192" name="cid59283"/><!-- SQUARED COOL -->
+-      <map code="0x1f193" name="cid59284"/><!-- SQUARED FREE -->
+-      <map code="0x1f194" name="cid59285"/><!-- SQUARED ID -->
+-      <map code="0x1f195" name="cid59286"/><!-- SQUARED NEW -->
+-      <map code="0x1f196" name="cid59287"/><!-- SQUARED NG -->
+-      <map code="0x1f197" name="cid59288"/><!-- SQUARED OK -->
+-      <map code="0x1f198" name="cid59289"/><!-- SQUARED SOS -->
+-      <map code="0x1f199" name="cid59290"/><!-- SQUARED UP WITH EXCLAMATION MARK -->
+-      <map code="0x1f19a" name="cid59291"/><!-- SQUARED VS -->
+       <map code="0x1f19b" name="cid59292"/><!-- SQUARED THREE D -->
+       <map code="0x1f19c" name="cid59293"/><!-- SQUARED SECOND SCREEN -->
+       <map code="0x1f19d" name="cid59294"/><!-- SQUARED TWO K -->
 @@
-       <map code="0x1f1ab" name="cid59283"/><!-- SQUARED UHD -->
-       <map code="0x1f1ac" name="cid59284"/><!-- SQUARED VOD -->
-       <map code="0x1f200" name="cid59285"/><!-- SQUARE HIRAGANA HOKA -->
--      <map code="0x1f201" name="cid59286"/><!-- SQUARED KATAKANA KOKO -->
-       <map code="0x1f202" name="cid59287"/><!-- SQUARED KATAKANA SA -->
-       <map code="0x1f210" name="cid59288"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-624B -->
-       <map code="0x1f211" name="cid59289"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5B57 -->
+       <map code="0x1f1ab" name="cid59308"/><!-- SQUARED UHD -->
+       <map code="0x1f1ac" name="cid59309"/><!-- SQUARED VOD -->
+       <map code="0x1f200" name="cid59310"/><!-- SQUARE HIRAGANA HOKA -->
+-      <map code="0x1f201" name="cid59311"/><!-- SQUARED KATAKANA KOKO -->
+       <map code="0x1f202" name="cid59312"/><!-- SQUARED KATAKANA SA -->
+       <map code="0x1f210" name="cid59313"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-624B -->
+       <map code="0x1f211" name="cid59314"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5B57 -->
 @@
-       <map code="0x1f217" name="cid59297"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5929 -->
-       <map code="0x1f218" name="cid59299"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4EA4 -->
-       <map code="0x1f219" name="cid59301"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6620 -->
--      <map code="0x1f21a" name="cid59303"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7121 -->
-       <map code="0x1f21b" name="cid59305"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6599 -->
-       <map code="0x1f21c" name="cid59307"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-524D -->
-       <map code="0x1f21d" name="cid59309"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5F8C -->
+       <map code="0x1f217" name="cid59322"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5929 -->
+       <map code="0x1f218" name="cid59324"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4EA4 -->
+       <map code="0x1f219" name="cid59326"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6620 -->
+-      <map code="0x1f21a" name="cid59328"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7121 -->
+       <map code="0x1f21b" name="cid59330"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6599 -->
+       <map code="0x1f21c" name="cid59332"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-524D -->
+       <map code="0x1f21d" name="cid59334"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5F8C -->
 @@
-       <map code="0x1f22c" name="cid59336"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5DE6 -->
-       <map code="0x1f22d" name="cid59337"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4E2D -->
-       <map code="0x1f22e" name="cid59338"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-53F3 -->
--      <map code="0x1f22f" name="cid59339"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6307 -->
-       <map code="0x1f230" name="cid59341"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-8D70 -->
-       <map code="0x1f231" name="cid59342"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6253 -->
--      <map code="0x1f232" name="cid59343"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7981 -->
--      <map code="0x1f233" name="cid59345"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7A7A -->
--      <map code="0x1f234" name="cid59348"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5408 -->
--      <map code="0x1f235" name="cid59349"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6E80 -->
--      <map code="0x1f236" name="cid59351"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6709 -->
-       <map code="0x1f237" name="cid59353"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6708 -->
--      <map code="0x1f238" name="cid59354"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7533 -->
--      <map code="0x1f239" name="cid59355"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5272 -->
--      <map code="0x1f23a" name="cid59358"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-55B6 -->
-       <map code="0x1f23b" name="cid59360"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-914D -->
-       <map code="0x1f240" name="cid59362"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-672C -->
-       <map code="0x1f241" name="cid59363"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-4E09 -->
+       <map code="0x1f22c" name="cid59361"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5DE6 -->
+       <map code="0x1f22d" name="cid59362"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-4E2D -->
+       <map code="0x1f22e" name="cid59363"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-53F3 -->
+-      <map code="0x1f22f" name="cid59364"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6307 -->
+       <map code="0x1f230" name="cid59366"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-8D70 -->
+       <map code="0x1f231" name="cid59367"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6253 -->
+-      <map code="0x1f232" name="cid59368"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7981 -->
+-      <map code="0x1f233" name="cid59370"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7A7A -->
+-      <map code="0x1f234" name="cid59373"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5408 -->
+-      <map code="0x1f235" name="cid59374"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6E80 -->
+-      <map code="0x1f236" name="cid59376"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6709 -->
+       <map code="0x1f237" name="cid59378"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-6708 -->
+-      <map code="0x1f238" name="cid59379"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-7533 -->
+-      <map code="0x1f239" name="cid59380"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-5272 -->
+-      <map code="0x1f23a" name="cid59383"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-55B6 -->
+       <map code="0x1f23b" name="cid59385"/><!-- SQUARED CJK UNIFIED IDEOGRAPH-914D -->
+       <map code="0x1f240" name="cid59387"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-672C -->
+       <map code="0x1f241" name="cid59388"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-4E09 -->
 @@
-       <map code="0x1f246" name="cid59370"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-76D7 -->
-       <map code="0x1f247" name="cid59373"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-52DD -->
-       <map code="0x1f248" name="cid59375"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6557 -->
--      <map code="0x1f250" name="cid59376"/><!-- CIRCLED IDEOGRAPH ADVANTAGE -->
--      <map code="0x1f251" name="cid59377"/><!-- CIRCLED IDEOGRAPH ACCEPT -->
-       <map code="0x2000b" name="cid59378"/><!-- CJK UNIFIED IDEOGRAPH-2000B -->
-       <map code="0x20021" name="cid59379"/><!-- CJK UNIFIED IDEOGRAPH-20021 -->
-       <map code="0x2003e" name="cid59381"/><!-- CJK UNIFIED IDEOGRAPH-2003E -->
+       <map code="0x1f246" name="cid59395"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-76D7 -->
+       <map code="0x1f247" name="cid59398"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-52DD -->
+       <map code="0x1f248" name="cid59400"/><!-- TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6557 -->
+-      <map code="0x1f250" name="cid59401"/><!-- CIRCLED IDEOGRAPH ADVANTAGE -->
+-      <map code="0x1f251" name="cid59402"/><!-- CIRCLED IDEOGRAPH ACCEPT -->
+       <map code="0x2000b" name="cid59403"/><!-- CJK UNIFIED IDEOGRAPH-2000B -->
+       <map code="0x20021" name="cid59404"/><!-- CJK UNIFIED IDEOGRAPH-20021 -->
+       <map code="0x2003e" name="cid59406"/><!-- CJK UNIFIED IDEOGRAPH-2003E -->
